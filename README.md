@@ -1,5 +1,5 @@
 ### Autopilot Simulador da Tesla para carros autônomos - Segue as Tecnologias utilizadas:
-Este projeto experimental foi desevolvida e programado usando NodeJs juntatemente diversas libs e Framework Expressp para um Autopilot da Tesla para carros autônomos e utilizei diversas tecnologias, tais como:
+Este projeto experimental foi desevolvida e programado usando NodeJs juntatemente diversas libs e Framework Express para um Autopilot da Tesla para carros autônomos e utilizei diversas tecnologias, tais como:
 
 - Express: um framework de aplicativo da Web para Node.js, que oferece recursos robustos para aplicativos da Web e móveis.
 
