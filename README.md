@@ -18,3 +18,6 @@ Este projeto experimental foi desevolvida e programado usando NodeJs juntatement
 - xml2js: um pacote para análise de dados XML.
 
 - windows-cpu: uma biblioteca que fornece informações de uso da CPU do Windows.
+
+Essas tecnologias são usadas para controlar os motores do carro autônomo, capturar imagens da câmera frontal, processar as imagens para identificar obstáculos, controlar a direção do carro, pagar pedágios por meio da API do Sem Parar e outras funções do Autopilot. Esse Autopilot consegue Estacionar,  Ultrapassar e fazer Curvas a Esquerda e a Direita. O algoritmo de controle PID (proporcional-integral-derivativo) também é implementado para permitir que o carro autônomo se mova suavemente e de forma segura.
+Integrado com API do SemParar que está integrado tanto consultas de requisições em Json e XML
